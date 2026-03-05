@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research papers on Juan L. Fuentes-Acosta</title>
+    <link>https://jlfuentesacosta.github.io/research/</link>
+    <description>Recent content in Research papers on Juan L. Fuentes-Acosta</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://jlfuentesacosta.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who Wins with Class-Rank College Admissions? (JMP)</title>
+      <link>https://jlfuentesacosta.github.io/research/jmp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jlfuentesacosta.github.io/research/jmp/</guid>
+      <description>&lt;h1 id=&#34;who-wins-with-class-rank-college-admissions&#34;&gt;Who Wins with Class-Rank College Admissions?&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Download:&lt;/strong&gt; &lt;a href=&#34;https://jlfuentesacosta.github.io/files/jmp-juan-fuentes.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract:&lt;/h3&gt;&#xA;Class-rank policies increase college admission chances for students who perform better than their peers within their high school. These policies aim to promote equity while avoiding the legal and political challenges of affirmative action. I study the effects of Chile’s Relative Ranking rule, introduced in 2013, which boosted admission scores for top students in each high school. I use administrative data on the universe of applicants from 2012 to 2014, leverage variation pre- and post-policy, and estimate a structural model of college choice with endogenous consideration sets and graduation outcomes. This framework allows me to capture how the policy changed admission scores and reshaped student application choices. On average, student welfare rose by 0.05 km measured as willingness to travel. This effect hides important heterogeneity. I find that the rule shifted 13% of applicants into more-preferred programs. Of these students, 90% were from public and voucher schools and 60% were women. Private school students and men were displaced to less preferred alternatives and showed lower graduation rates. Counterfactuals show that, compared to affirmative action, the class-rank rule delivers higher welfare for public school students and smaller reductions in graduation rates.</description>
+    </item>
+    <item>
+      <title>When Competition and Labor Market Policy Collide: The Case of the Minimum Wage</title>
+      <link>https://jlfuentesacosta.github.io/research/min-wage-beer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jlfuentesacosta.github.io/research/min-wage-beer/</guid>
+      <description>&lt;h1 id=&#34;when-competition-and-labor-market-policy-collide-the-case-of-the-minimum-wage&#34;&gt;When Competition and Labor Market Policy Collide: The Case of the Minimum Wage&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Download:&lt;/strong&gt; &lt;a href=&#34;https://drive.google.com/file/d/1YdLHjEffIkleJhM-ty_U3AplXK_-VC7Q/view?pli=1&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract:&lt;/h3&gt;&#xA;Policymakers and competition authorities are concerned about the negative effects that labor market power has on workers and the efficient functioning of the labor market. The minimum wage has the potential to curb firms’ power, raising employment and wages (Robinson 1933). However, how does using the minimum wage to mitigate firms’ labor market power impact social welfare, when these firms differ in labor productivity and degree of product market power? Do the interests of consumers and workers align or conflict? We answer these questions in the context of sector-specific minimum wages. In our framework, raising the minimum wage affects labor and product market equilibrium. First, it may either increase, reduce or have no effect at all on the marginal cost of a given firm, depending on its level relative to the marginal revenue product of labor. Second, the minimum wage influences the strategic pricing decisions of competing firms in the product market, even when the own-cost effect is null. We extend a model of supply and demand in an oligopolistic industry with rich consumer preferences and endogenous marginal costs, to incorporate firms’ production, employment and wages. We estimate the model using a unique dataset from the beer industry in Uruguay, where firms of different sizes producing imperfect substitutes compete. We find that the minimum wage that minimizes employers’ power and enhances labor market efficiency also reduces consumer surplus and competition in the product market. The presence of firms with labor and product market power poses a challenge for policymakers aiming to curb employers’ power without causing unintended harm.</description>
+    </item>
+  </channel>
+</rss>
